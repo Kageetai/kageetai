@@ -10,9 +10,9 @@ I am a passionate frontend developer, working for the language learning app Babb
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,npm,bash,git,githubactions,idea,md,figma,obsidian,aws&perline=5)](https://skillicons.dev)
 
-## 📬 Get in Touch
+## Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/kageetai)
+- Connect with me on [Twitter](https://twitter.com/kageetai) or [Mastodon](https://mastodon.social/@kageetai)
 
 <!--
 Based on: https://www.freecodecamp.org/news/create-personalized-github-profile-page/
