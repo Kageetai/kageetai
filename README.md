@@ -6,13 +6,15 @@ I am a passionate frontend developer, working for the language learning app Babb
 
 [![Kageetai's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kageetai&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+[GitHub resume](https://resume.github.io/?kageetai)
+
 ## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,npm,bash,git,githubactions,idea,md,figma,obsidian,aws&perline=5)](https://skillicons.dev)
 
 ## Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/kageetai) or [Mastodon](https://mastodon.social/@kageetai)
+- Connect with me on [BlueSky](https://bsky.app/profile/kageetai.bsky.social) or [Mastodon](https://mastodon.social/@kageetai)
 
 <!--
 Based on: https://www.freecodecamp.org/news/create-personalized-github-profile-page/
