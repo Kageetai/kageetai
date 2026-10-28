@@ -2,9 +2,9 @@
 
 I am a passionate frontend developer, working for the language learning app Babbel, developing user interfaces that help our learners and teachers to achieve their goals. 
 
-![Kageetai's Stats](https://github-readme-stats.vercel.app/api?username=kageetai&theme=transparent&show_icons=true&show=prs_merged,prs_merged_percentage)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Kageetai&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=Kageetai&show_icons=true&include_all_commits=true&theme=transparent)
 
-[![Kageetai's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kageetai&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Kageetai&layout=compact&langs_count=4&hide_values=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Kageetai&layout=compact&langs_count=4&hide_values=true&theme=transparent)
 
 [GitHub resume](https://resume.github.io/?kageetai)
 
