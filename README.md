@@ -10,7 +10,7 @@ I am a passionate frontend developer, working for the language learning app Babb
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,npm,bash,git,githubactions,idea,md,figma,obsidian,aws&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,npm,bash,git,githubactions,idea,md,figma,obsidian,aws&perline=15)](https://skillicons.dev)
 
 ## Get in Touch
 
